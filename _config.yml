@@ -27,14 +27,14 @@ linkedin_username: punittiwari01
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
 
-    My name is Punit Tiwari, currently leading RPA Support Team as a Manager at Genpact for GE HealthCare.
+    My name is Punit Tiwari, currently leading RPA Support Team as a Manager at <mark>Genpact</mark> for GE HealthCare.
 
     I am having more then 10 years of rich experience in IT industry with extensive expertise in
 
-         - <mark>RPA (UiPath)<mark>
-         - <mark>Process Automation<mark>
-         - <mark>Web Automation<mark>
-         - <mark>Software Testing<mark>
+         - <mark>RPA (UiPath)</mark>
+         - <mark>Process Automation</mark>
+         - <mark>Web Automation</mark>
+         - <mark>Software Testing</mark>
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -48,7 +48,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-    Beside technical things I'm interested in <mark>Driving<mark> & <mark>Trekking<mark> .....
+    Beside technical things I'm interested in <mark>Driving</mark> & <mark>Trekking</mark> .....
 
 # Footer
 footer_show_references: true
