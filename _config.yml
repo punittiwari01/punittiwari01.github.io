@@ -31,10 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     I am having more then 10 years of rich experience in IT industry with extensive expertise in
     
-         - '''RPA (UiPath)'''
-         - '''Process Automation'''
-         - '''Web Automation'''
-         - '''Software Testing'''
+    '''RPA (UiPath)''' [[BR]] '''Process Automation''' [[BR]] '''Web Automation''' [[BR]] '''Software Testing'''
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
