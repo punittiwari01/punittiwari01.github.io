@@ -31,7 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     I am having more then 10 years of rich experience in IT industry with extensive expertise in :
     
-        :dart: RPA (UiPath)  :dart: Process Automation  :dart: Web Automation  :dart: Software Testing
+    :dart: RPA (UiPath)  :dart: Process Automation  <mark>Web Automation</mark>  <mark>Software Testing</mark>
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
