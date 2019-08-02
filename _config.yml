@@ -1,11 +1,11 @@
 # Site
- repository: punittiwari01/punittiwari01.github.io
+repository: punittiwari01/punittiwari01.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 # Personal info
 name: Punit Tiwari
 title: Manager - RPA
 email: punitjee@gmail.com
-phone: +91 9720332057 |
+phone: +91 9720332057
 website: Arriving Soon...
 
 # Social links
@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     I am having more then 10 years of rich experience in IT industry with extensive expertise in :
     
-    :dart:
+    
     
     **RPA (UiPath)** <br>  **Process Automation** <br> **Web Automation** <br> **Software Testing**
     
@@ -41,21 +41,7 @@ about_content: | # this will include new lines to allow paragraphs
 # experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# education_title: **Education** #(Use this to override about education section title)
-
-  -layout: left
-  name: IP University New Delhi
-  dates: Date Range (eg. 2006 - 2008)
-  qualification: M Tech
-  quote: >
-    **Engineering Physics**
-
-  -layout: left
-  name: CCS University Meerut
-  dates: Date Range (eg. 2003 - 2005)
-  qualification: M.Sc.
-  quote: >
-    **Digital Electronics**
+# education_title: Education #(Use this to override about education section title)
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
