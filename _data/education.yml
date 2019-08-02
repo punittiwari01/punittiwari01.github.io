@@ -1,7 +1,9 @@
 # Education Template
-# Education Template
+
+
+about_content: | # this will include new lines to allow paragraphs
   -layout: left
-  name: IP University New Delhi
+  name: IP University New Delhi          about_Education_image: Directory of profile image (eg. images/profile.jpg)
   dates: Date Range (eg. 2006 - 2008)
   qualification: M Tech
   quote: >
