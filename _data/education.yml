@@ -1,10 +1,12 @@
-  -layout: left
-  name: IP University New Delhi
-  dates: 2006 - 2008
-  qualification: M Tech (Engineering Physics)
+# Experience template
+- layout: left
+  company: Company name B
+  link: Link to company (optional)
+  job_title: Job title
+  dates: July 2006 - August 2008
   quote: >
-    IP University was Established in 1998, It was ranked 66 among Indian universities by the National Institutional Ranking Framework (NIRF) in 2019. In 2001, the university was officially renamed as Guru Gobind Singh Indraprastha University (GGSIPU) after the tenth Sikh guru Guru Gobind Singh.
-    It has been graded 'A' by the NAAC & a member of the Association of Commonwealth Universities, Association of Indian Universities, Medical Council of India and Distance Education Council.
+   IP University was Established in 1998, It was ranked 66 among Indian universities by the National Institutional Ranking Framework (NIRF) in 2019. In 2001, the university was officially renamed as Guru Gobind Singh Indraprastha University (GGSIPU) after the tenth Sikh guru Guru Gobind Singh.
+   It has been graded 'A' by the NAAC & a member of the Association of Commonwealth Universities, Association of Indian Universities, Medical Council of India and Distance Education Council.
   description: | # this will include new lines to allow paragraphs
     M.Tech. (Engineering Physics) is an interdiscplinery stream and has courses from various fields of applied sciences and computer sciences.
     During my time at IP University I learnt most of my key IT skills that have I have taken through my career.
