@@ -1,10 +1,10 @@
 # Experience template
 - layout: left
-  company: Company name B
-  link: Link to company (optional)
-  job_title: Job title
+  company: IP University New Delhi
+  link: http://www.ipu.ac.in
+  job_title: **M Tech**
   dates: July 2006 - August 2008
-  quote: >
+  quote: 
    IP University was Established in 1998, It was ranked 66 among Indian universities by the National Institutional Ranking Framework (NIRF) in 2019. In 2001, the university was officially renamed as Guru Gobind Singh Indraprastha University (GGSIPU) after the tenth Sikh guru Guru Gobind Singh.
    It has been graded 'A' by the NAAC & a member of the Association of Commonwealth Universities, Association of Indian Universities, Medical Council of India and Distance Education Council.
   description: | # this will include new lines to allow paragraphs
