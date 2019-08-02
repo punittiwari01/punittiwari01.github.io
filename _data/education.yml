@@ -1,9 +1,16 @@
 # Education Template
-- layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  -layout: left
+  name: IP University New Delhi
+  dates: Date Range (eg. 2006 - 2008)
+  qualification: M Tech
   quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    **Engineering Physics**
+
+  -layout: left
+  name: CCS University Meerut
+  dates: Date Range (eg. 2003 - 2005)
+  qualification: M.Sc.
+  quote: >
+    **Digital Electronics**
+
+
