@@ -7,3 +7,13 @@
     Reusabe RPA library
   description: | # this will include new lines to allow paragraphs
     Here you can find the code snippet of most commanly asked issues, reusable codes.
+
+# Project template
+- layout: left
+  name: Web Automation
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Selenium WebDriver
+  description: | # this will include new lines to allow paragraphs
+    Here you can find the code snippet of most commanly asked issues, reusable codes.
