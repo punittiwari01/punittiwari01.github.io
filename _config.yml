@@ -1,5 +1,5 @@
 # Site
- repository: punittiwari01/punittiwari01.github.io
+repository: punittiwari01/punittiwari01.github.io
 
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 # Personal info
@@ -33,7 +33,7 @@ about_content: | # this will include new lines to allow paragraphs
     
     
     
-   **RPA (UiPath)** <br> **Process Automation** <br> **Web Automation** <br> **Software Testing**
+     **RPA (UiPath)** <br> **Process Automation** <br> **Web Automation** <br> **Software Testing**
     
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -48,9 +48,7 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
     Beside technical things I'm interested in <mark>Driving</mark> & <mark>Trekking</mark> .....
-plugins:
-  - jemoji
-    :+1:!
+
     
 
 # Footer
