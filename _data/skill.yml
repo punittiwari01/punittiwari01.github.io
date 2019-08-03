@@ -2,17 +2,13 @@
 - layout: left
   name: RPA Tools
   link: UiPath
-  #github: 
-  quote: >
   description: | # this will include new lines to allow paragraphs
-    &#9733 &#9733 &#9733 &#2603 &#9734
+    &#9733 &#9733 "*" &#9733 "&#2603" "&#9734"
  
 # Skill-Set template
 - layout: left
   name: Web Automation
   link: Selenium WebDriver
-  #github: Selenium WebDriver
-  quote: >
   description: | # this will include new lines to allow paragraphs
    <string>&#9733</string> &#9733 &#9733 &#9734 &#9734
 - layout: left
