@@ -1,0 +1,17 @@
+# Skill Set template
+- layout: left
+  name: RPA Tools
+  link: UiPath
+  description: | # this will include new lines to allow paragraphs
+    &#9733&#9733&#9733&#9734&#9734
+   
+- layout: left
+  name: Automation Tools
+  link: Selenium WebDriver
+  description: | # this will include new lines to allow paragraphs
+    &#9733&#9733&#9733&#9734&#9734
+ 
+- layout: left 
+  link: WorkSoft Certify
+  description: | # this will include new lines to allow paragraphs
+    &#9733&#9733&#9734&#9734&#9734
