@@ -48,9 +48,14 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
     Beside technical things I'm interested in <mark>Driving</mark> & <mark>Trekking</mark> .....
+    
     <mark>Web Automation</mark> \n
-    Selenium WebDriver      ★★★☆☆       WorkSoft Certify        ★★★☆☆ \n
-    <mark>Web Automation</mark>
+    
+    Selenium WebDriver      ★★★☆☆                   ||        WorkSoft Certify        ★★★☆☆ \n
+    
+    
+    <mark>Alif Laila</mark>
+    
     Selenium WebDriverB      ★★★☆☆       WorkSoft Certify C        ★★★☆☆ <br>
 
 # Footer
