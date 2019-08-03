@@ -8,7 +8,8 @@
  # Skill-Set template
 - layout: left
   name: Web Automation
-  link: Selenium WebDriver
+  link1: "Selenium WebDriver  - ★★★☆☆"
+  link2: "Selenium WebDriver2 - ★★★☆☆"
   quote: >
   description: | # this will include new lines to allow paragraphs
    ★★★☆☆ 
