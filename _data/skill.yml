@@ -19,4 +19,24 @@
   #quote: > 
   description: | # this will include new lines to allow paragraphs
     ★★★☆☆
-    
+
+- layout: left
+  #name:
+  link: JMeter
+  #quote: > 
+  description: | # this will include new lines to allow paragraphs
+   ★★☆☆☆
+   
+- layout: left
+  #name:
+  link: Jenkins
+  #quote: > 
+  description: | # this will include new lines to allow paragraphs
+   ★★☆☆☆   
+
+- layout: left
+  #name:
+  link: Maven
+  #quote: > 
+  description: | # this will include new lines to allow paragraphs
+   ★★☆☆☆ 
