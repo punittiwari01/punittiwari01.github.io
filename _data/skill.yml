@@ -13,10 +13,12 @@
   description: | # this will include new lines to allow paragraphs
    ★★★☆☆ 
 - layout: left
-  link: WorkSoft Certify || WorkSoft A
+  link: "WorkSoft Certify B" 
+  description: |
+   ★★★☆☆
   #quote: > 
   description: | # this will include new lines to allow paragraphs
-    ★★★☆☆ || ★★★☆☆ 
+   ★★★☆☆ 
 - layout: left
   link: JMeter 
   #quote: > 
