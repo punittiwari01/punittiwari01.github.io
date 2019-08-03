@@ -1,5 +1,5 @@
 <div class="container skill-container">
-  <h3>{{ site.skill_title | default: "skill" }}</h3>
+  <h3>{{ site.skill_title | default: "Skill Set" }}</h3>
   {% for project in site.data.projects %}
     {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
   {% endfor %}
