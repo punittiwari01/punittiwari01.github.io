@@ -1,8 +1,8 @@
 # Skill-Set template
 - layout: left
   name: RPA Tools
-  link: 
-  github: UiPath
+  link: UiPath
+  #github: 
   quote: >
   description: | # this will include new lines to allow paragraphs
     &#9733 &#9733 &#9733 &#9734 &#9734
@@ -10,15 +10,15 @@
 # Skill-Set template
 - layout: left
   name: Web Automation
-  link: 
-  github: Selenium WebDriver
+  link: **Selenium WebDriver**
+  #github: Selenium WebDriver
   quote: >
   description: | # this will include new lines to allow paragraphs
-    &#9733 &#9733 &#9733 &#9734 &#9734
+   <string>&#9733</string> &#9733 &#9733 &#9734 &#9734
 - layout: left
   name: 
-  link: 
-  github: WorkSoft Certify
+  link: **WorkSoft Certify**
+  #github: 
   quote: >
   description: | # this will include new lines to allow paragraphs
     &#9733 &#9733 &#9733 &#9734 &#9734
