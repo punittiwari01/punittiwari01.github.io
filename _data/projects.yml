@@ -1,9 +1,9 @@
 # Project template
-- layout: top-middle
-  name: Project name
+- layout: left
+  name: RPA Library (UiPath)
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    Reusabe RPA library
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Here you can find the code snippet of most commanly asked issues, reusable codes.
