@@ -1,5 +1,6 @@
 # Site
 repository: punittiwari01/punittiwari01.github.io
+
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 # Personal info
 name: Punit Tiwari
@@ -47,6 +48,10 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
     Beside technical things I'm interested in <mark>Driving</mark> & <mark>Trekking</mark> .....
+plugins:
+  - jemoji
+    :+1:!
+    
 
 # Footer
 footer_show_references: true
