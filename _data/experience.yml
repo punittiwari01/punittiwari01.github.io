@@ -1,22 +1,84 @@
 # Experience template
 - layout: left
-  company: Genpact.
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Genpact
+  link: https://www.genpact.com/
+  job_title: Manager RPA
+  dates: April 2019 - present
   quote: >
-   Short description of the company (optional)
+   Genpact began in 1997 as a unit within General Electric, with it's deep process expertise, Genpact drives transformation and ROI with robotic process automation (RPA). 
+   Genpact is partner with Automation Anywhere, Blue Prism, and UiPath.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+      - Managing a team of developers and providing support for RPA bots involving web, desktop, excel and
+        outlook applications.
+      - Working closely with Business Teams to help them realize the ROI after Automation is delivered.
+      - Working closely with Process SME's and implementing the Change Requests according to the business
+        need.
 
 # Experience template
 - layout: left
-  company: Peak
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Peak Business Insides Ltd
+  link: https://peak.ai/
+  job_title: Lead QA / Automation
+  dates: April 2018 to March 2019
   quote: >
-   Short description of the company (optional)
+   Peak is the pioneer of the Artificial Intelligence System, a new enterprise technology that helps businesses leverage and protect their most important asset – their data – with artificial intelligence (AI) and machine learning.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+      - Deployment phases covering the entire Application Development Life Cycle.
+      - Worked closely with Process SME’s to translate process into Process De􀃕nition Document (PDD) & Solution Design Document (SDD).
+      - Designing automation solutions in accordance with standard RPA design principles.
+      - Facilitating Integration and User Acceptance Testing.
+      - Did almost all kind of automation for example: Excel Automation, Web Automation, Email Automation, PDF Automation, Image/OCR Automation and etc.
+      - Used di􀃠erent UiPath automation techniques to automate complex processes. E.g. Scrapping, OCR engines,Recordings, UiExplorer, Selectors, Queues, Publishing and Provisioning etc.
 
+# Experience template
+- layout: left
+  company: Accenture Solutions Pvt Ltd
+  link: https://www.accenture.com/in-en
+  job_title: Test Delivery Lead
+  dates: June 2015 to February 2018
+  quote: >
+   Accenture plc is a multinational professional services company that provides services in strategy, consulting, digital, technology and operations. A Fortune Global 500 company with about 150,000 employees in India.
+   Accenture's current clients include 92 of the Fortune Global 100 and more than three-quarters of the Fortune Global 500.
+  description: | # this will include new lines to allow paragraphs
+      - Responsible for creating automated solutions with experience in OTM & media domain using RPA tool- UI Path.
+      - Work closely with process experts and design solutions based on business requirements.
+      - Adopt in robotic process automation from requirements gathering, solution designing, coding, testing, debugging,documentation and implementation.
+      - UI Path developer responsibility for end to end design and development of business objects and processes for Web Based application.
+      - Experience in managing robot's workloads using UI Path work queues.
+      - Finding automation opportunities in existing process and implementing those with the help of UI Path.
+      - Experience in developing and maintaining Test Scripts, analyzing bugs and interacting with development team members in 􀃕xing the defects.
+      - Testing of new releases, Automating scripts using Selenium and running on slave machine via Jenkins, Defect Logging.
+      - Worked on various tools like Eclipse, Selenium, Work-soft, HP ALM, JIRA, Jenkins.
+      - Design and execution of Test Strategies, Traceability Matrix, Test Plans, Capacity Estimation, Test Scenarios, Test cases, Test reports, Test results and documentation for complex applications in large projects and Programs.
+      - Increased automation coverage from 0% to 60% using selenium automation which saved a lot of time and money for client.
+      
+# Experience template
+- layout: left
+  company: ColdEX Logistics India Pvt Ltd
+  link: https://coldex.in/
+  job_title: UAT–Lead
+  dates: December 2013 to May 2015
+  quote: >
+   ColdEX Limited was originally incorporated under the provision of the Companies Act, 1956 as Swastik Roadlines Private Limited.
+   ColdEX considers its temperature-controlled logistics services to be “mission critical” real estate for its customers from “farm to fork” and an integral component of its supply chain.
+   
+  description: | # this will include new lines to allow paragraphs
+      - Collaborated with Developers and Subject Matter Experts and worked as a single POC through which requirements 􀃖ows.
+      - Interpreted Business Requirements and translated them in to application and operational requirements
+      - Examined all aspects of WMS software from business operations prospective to find the GAPs, worked closely with development team to eliminate those GAPs
+      - Lead a team of 2 resources & successfully conducted User Acceptance Testing. Prepared a detailed KT manual on various business modules and trained new resources on them.
+
+# Experience template
+- layout: left
+  company: iProf India Learning Solutions Pvt Ltd
+  # link: https://coldex.in/
+  job_title: Sr Executive Quality & Testing
+  dates: June 2011 to January 2013
+  quote: >
+   ColdEX Limited was originally incorporated under the provision of the Companies Act, 1956 as Swastik Roadlines Private Limited.
+   ColdEX considers its temperature-controlled logistics services to be “mission critical” real estate for its customers from “farm to fork” and an integral component of its supply chain.
+   
+  description: | # this will include new lines to allow paragraphs
+      - Prepared test plan and designing & reviewing the test cases based on functional specifications. Setting-up test environment, and functional test execution records.
+      - Created Company’s first comprehensive database of documented test defects and procedures to enable accurate replication and ensure compliance with standards. Accelerated average QA testing turn-around time by 25% or more.
+      - Documented software defects using bug tracking system and reported defects involving program functionality, output, online screen and content to software developers
