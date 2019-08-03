@@ -1,46 +1,35 @@
 language: ruby
-rvm:
-  - 2.4.2
-
-sudo: false
-
 cache: bundler
-
+rvm:
+  - &latest_ruby 2.6
+  - 2.4
+  - 2.3
 env:
-  global:
-    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-    - USER="Travis CI"
-    - EMAIL="travis@travis-ci.org"
-    - GITHUB_REPO="github.com/${TRAVIS_REPO_SLUG}.git"
+  - JEKYLL_VERSION="~> 3.8"
+matrix:
+  include:
+    - # GitHub Pages
+      rvm: 2.5.3
+      env: GH_PAGES=true
+    - rvm: *latest_ruby
+      env: JEKYLL_VERSION=">= 4.0.0.pre.alpha1"
 
+before_install:
+  - gem update --system
+  - gem install bundler
+before_script: bundle update
+script: script/cibuild
 branches:
   only:
     - master
-    - develop
-
-before_install:
-  - gem install gem-release --pre
-  - ./scripts/bump-version.sh
-
-script:
-  - bundle exec jekyll build --config _test/_config.yml
-  - bundle exec htmlproofer ./_site --disable-external
-
-after_success:
-  - ./scripts/merge-downstream.sh
-
-before_deploy:
-  - gem build modern-resume-theme.gemspec
-  - export RESUME_THEME_GEM=$(ls *.gem)
-
-deploy:
-  - provider: rubygems
-    on:
-      branch: master
-    api_key: ${RUBYGEMS_TOKEN}
-  - provider: releases
-    api_key: ${GITHUB_TOKEN}
-    skip_cleanup: true
-    file: "${RESUME_THEME_GEM}"
-    on:
-      branch: master
+notifications:
+  irc:
+    on_success: change
+    on_failure: change
+    channels:
+    - irc.freenode.org#jekyll
+    template:
+    - '%{repository}#%{build_number} (%{branch}) %{message} %{build_url}'
+  email:
+    on_success: never
+    on_failure: never

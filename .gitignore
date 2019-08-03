@@ -1,6 +1,8 @@
-*.gem
+bin
 .bundle
-.sass-cache
+/*.gem
+Gemfile.lock
+/pkg
 _site
-*.code-workspace
-vendor
+/vendor/gems
+spec/fixture_site/.jekyll-cache
