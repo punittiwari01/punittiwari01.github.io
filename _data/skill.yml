@@ -12,11 +12,11 @@
   quote: >
   description: | # this will include new lines to allow paragraphs
    ★★★☆☆ 
-- layout: top-middle
-  link: WorkSoft Certify 
+- layout: left
+  link: WorkSoft Certify || WorkSoft A
   #quote: > 
   description: | # this will include new lines to allow paragraphs
-    ★★★☆☆
+    ★★★☆☆ || ★★★☆☆ 
 - layout: left
   link: JMeter 
   #quote: > 
