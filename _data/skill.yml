@@ -17,17 +17,13 @@
   #quote: > 
   description: | # this will include new lines to allow paragraphs
     ★★★☆☆
-
 - layout: left
-  #name:
-  link: JMeter
+  link: JMeter A
   #quote: > 
   description: | # this will include new lines to allow paragraphs
    ★★☆☆☆
-   
 - layout: left
-  #name:
-  link: Jenkins
+  link: Jenkins A
   #quote: > 
   description: | # this will include new lines to allow paragraphs
    ★★☆☆☆   
