@@ -8,13 +8,13 @@
  # Skill-Set template
 - layout: left
   name: Web Automation
-  link: Selenium WebDriver
+  link1: Selenium WebDriver
+  link2: WorkSoft Certify
   quote: >
   description: | # this will include new lines to allow paragraphs
    ★★★☆☆
-- layout: left
-  #name:
-  link: WorkSoft Certify
+   ★★★☆☆
+  link: WorkSoft Certify B
   #quote: > 
   description: | # this will include new lines to allow paragraphs
     ★★★☆☆
