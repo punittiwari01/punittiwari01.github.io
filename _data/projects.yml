@@ -17,3 +17,13 @@
     Selenium WebDriver
   description: | # this will include new lines to allow paragraphs
     Here you can find the code snippet of most commanly asked issues, reusable codes.
+
+# Project template
+- layout: left
+  name: Python
+  link: https://github.com/punittiwari01/Python.git
+  github: https://github.com/punittiwari01/Python.git
+  quote: >
+    Simple Python Example (limited to string and loops)
+  description: | # this will include new lines to allow paragraphs
+    Here you can find the code snippet of most commanly asked issues, reusable codes.
