@@ -71,12 +71,13 @@ skill_content: | # this will include new lines to allow paragraphs
 
 certification_content: | # this will include new lines to allow paragraphs
 
-   **ISTQB (CTFL-8079961)**
-   **IBM-Big Data Foundations - Level 1 (2016)**
-   **Microsoft (98-369) - MTA Cloud Fundamentals (13476828)**     
-   **UiPAth Foundation Training**
-   **UiPath Orchestrator 2016.2**
-   **UiPath Advanced Developer 2019.4.2**
+   ☸    **ISTQB (CTFL-8079961)**        ||      
+   
+   ☸    **IBM-Big Data Foundations - Level 1 (2016)**       ||      
+   
+   ☸    **Microsoft (98-369) - MTA Cloud Fundamentals (13476828)**      ||           
+   
+   ☸    **UiPAth Foundation Training**      ||      ☸    **UiPath Orchestrator 2016.2**      ||      ☸    **UiPath Advanced Developer 2019.4.2**
 
 
 
