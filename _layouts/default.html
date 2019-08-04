@@ -10,11 +10,7 @@
     <main class="page-content" aria-label="Content">
         <div class="wrapper">
 
-            {%- include about.html -%}
-            
-            {%- if site.data.skill.size > 0 -%}
-                {%- include skill.html -%}
-            {%- endif -%}
+            {%- include skill.html -%}
             
             {%- if site.data.experience.size > 0 -%}
                 {%- include experience.html -%}
