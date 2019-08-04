@@ -70,10 +70,12 @@ skill_content: | # this will include new lines to allow paragraphs
 #This is Certification Page
 
 certification_content: | # this will include new lines to allow paragraphs
+
+   **ISTQB (CTFL-8079961)**     ||      **IBM-Big Data Foundations - Level 1 (2016)**
    
-   <mark>RPA Tools</mark>
+   **Microsoft (98-369) - MTA Cloud Fundamentals (13476828)**     
    
-   **UiPath** ★★★☆☆
+   **UiPAth Foundation Training**       ||      **UiPath Orchestrator 2016.2**      ||      **UiPath Advanced Developer 2019.4.2**
 
 
 
