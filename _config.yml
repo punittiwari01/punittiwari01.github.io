@@ -34,6 +34,32 @@ about_content: | # this will include new lines to allow paragraphs
     
     
      **RPA (UiPath)** <br> **Process Automation** <br> **Web Automation** <br> **Software Testing**
+
+
+# This is Skill Section - user can update Skill set here 
+skill_content: | # this will include new lines to allow paragraphs
+   
+   <mark>RPA Tools</mark> 
+   **UiPath** ★★★☆☆
+    
+   <mark>Web Automation Tools</mark> 
+   **Selenium WebDriver** ★★★☆☆  || **WorkSoft Certify**  ★★☆☆☆ 
+   
+   <mark>CI/CD/Automation Tools</mark> 
+   **JMeter**  ★★☆☆☆ || **Jenkins**  ★★☆☆☆  ||    **Maven**  ★★★☆☆
+    
+   <mark>Software Package</mark> 
+   **HP-ALM**  ★★★☆☆ || **JIRA/SpiceWorks**  ★★★☆☆  ||    **FTP(Putty/WinSCP)**  ★★★☆☆
+   **MS Office(Excel,Word,VISIO)**  ★★★☆☆
+   
+   <mark>Web Technologies</mark> 
+   **XML**  ★★☆☆☆ || **SQL**  ★★★☆☆  ||    **EDI**  ★★★☆☆
+   **JAVA**  ★★☆☆☆ || **VB Scripting**  ★☆☆☆☆ || **Python**  ★☆☆☆☆
+   
+   <mark>Functional</mark> 
+   **XML**  ★★☆☆☆ || **SQL**  ★★★☆☆  ||    **EDI**  ★★★☆☆
+   **JAVA**  ★★☆☆☆ || **VB Scripting**  ★☆☆☆☆ || **Python**  ★☆☆☆☆
+    
     
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -47,17 +73,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
+    
     Beside technical things I'm interested in <mark>Driving</mark> & <mark>Trekking</mark> .....
     
-    <mark>Web Automation</mark> 
-    
-    **Selenium WebDriver** ★★★☆☆  || **WorkSoft Certify**  ★★★☆☆ || **Selenium WebDriverA**  ★★★☆☆ || Yo Yo ★★★☆☆
-    Selenium WebDriverA  ★★★☆☆     ||        WorkSoft Certify A        ★★★☆☆ 
-    Selenium WebDriver B      ★★★☆☆     ||        WorkSoft Certify C        ★★★☆☆ 
-    
-    <mark>Alif Laila</mark>
-    
-    Selenium WebDriverB      ★★★☆☆       WorkSoft Certify C        ★★★☆☆ <br>
+   
 
 # Footer
 footer_show_references: true
