@@ -66,7 +66,17 @@ skill_content: | # this will include new lines to allow paragraphs
    **Agile**  ★★★★☆     ||      **BDD/BDT**  ★★★☆☆      ||      **SDLC/STLC**  ★★★☆☆
    **SCM(WMS/TMS)**  ★★★☆☆      ||      **GAP Analysis**  ★★★☆☆     ||      **UAT**  ★★★☆☆
     
-    
+
+#This is Certification Page
+
+certification_content: | # this will include new lines to allow paragraphs
+   
+   <mark>RPA Tools</mark>
+   
+   **UiPath** ★★★☆☆
+
+
+
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
