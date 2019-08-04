@@ -1,8 +1,8 @@
-<div class="container more-container">
-  <h3>{{ site.more_title | default: "Skill-Set" }}</h3>
+<div class="container skill-container">
+  <h3>{{ site.skill_title | default: "Skill-Set" }}</h3>
   <div class="row clearfix">
     <div class="col-md-12">
-      {{ site.more_content | strip | markdownify }}
+      {{ site.skill_content | strip | markdownify }}
     </div>
   </div>
 </div>
