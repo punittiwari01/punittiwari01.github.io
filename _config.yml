@@ -39,26 +39,32 @@ about_content: | # this will include new lines to allow paragraphs
 # This is Skill Section - user can update Skill set here 
 skill_content: | # this will include new lines to allow paragraphs
    
-   <mark>RPA Tools</mark> 
+   <mark>RPA Tools</mark>
+   
    **UiPath** ★★★☆☆
     
-   <mark>Web Automation Tools</mark> 
-   **Selenium WebDriver** ★★★☆☆  || **WorkSoft Certify**  ★★☆☆☆ 
+   <mark>Web Automation Tools</mark>
    
-   <mark>CI/CD/Automation Tools</mark> 
-   **JMeter**  ★★☆☆☆ || **Jenkins**  ★★☆☆☆  ||    **Maven**  ★★★☆☆
+   **Selenium WebDriver** ★★★☆☆     ||      **WorkSoft Certify**  ★★☆☆☆ 
+   
+   <mark>CI/CD/Automation Tools</mark>
+   
+   **JMeter**  ★★☆☆☆        ||      **Jenkins**  ★★☆☆☆      ||      **Maven**  ★★★☆☆
     
-   <mark>Software Package</mark> 
-   **HP-ALM**  ★★★☆☆ || **JIRA/SpiceWorks**  ★★★☆☆  ||    **FTP(Putty/WinSCP)**  ★★★☆☆
+   <mark>Software Package</mark>
+   
+   **HP-ALM**  ★★★☆☆        ||      **JIRA/SpiceWorks**  ★★★☆☆      ||      **FTP(Putty/WinSCP)**  ★★★☆☆
    **MS Office(Excel,Word,VISIO)**  ★★★☆☆
    
-   <mark>Web Technologies</mark> 
-   **XML**  ★★☆☆☆ || **SQL**  ★★★☆☆  ||    **EDI**  ★★★☆☆
-   **JAVA**  ★★☆☆☆ || **VB Scripting**  ★☆☆☆☆ || **Python**  ★☆☆☆☆
+   <mark>Web Technologies</mark>
    
-   <mark>Functional</mark> 
-   **XML**  ★★☆☆☆ || **SQL**  ★★★☆☆  ||    **EDI**  ★★★☆☆
-   **JAVA**  ★★☆☆☆ || **VB Scripting**  ★☆☆☆☆ || **Python**  ★☆☆☆☆
+   **XML**  ★★☆☆☆       ||      **SQL**  ★★★☆☆      ||      **EDI**  ★★★☆☆
+   **JAVA**  ★★☆☆☆      ||      **VB Scripting**  ★☆☆☆☆     ||      **Python**  ★☆☆☆☆
+   
+   <mark>Functional</mark>
+   
+   **Agile**  ★★★★☆     ||      **BDD/BDT**  ★★★☆☆      ||      **SDLC/STLC**  ★★★☆☆
+   **SCM(WMS/TMS)**  ★★★☆☆      ||      **GAP Analysis**  ★★★☆☆     ||      **UAT**  ★★★☆☆
     
     
 # Projects Section
